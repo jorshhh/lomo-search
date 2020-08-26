@@ -22,6 +22,8 @@ class DownloadCameras extends Command
      */
     protected $description = 'Downloads all of lomography\'s camera database';
 
+
+
     /**
      * Create a new command instance.
      *
